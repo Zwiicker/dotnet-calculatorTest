@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-newtalents", "dotnet-newtalents.csproj", "{83032C02-851B-4B2B-A9C5-3DD2FC3E1ED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-test-newtalents", "..\dotnet-test-newtalents\dotnet-test-newtalents.csproj", "{ACE9B6C3-D6ED-4786-99C2-18ACAD6B7F64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83032C02-851B-4B2B-A9C5-3DD2FC3E1ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83032C02-851B-4B2B-A9C5-3DD2FC3E1ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83032C02-851B-4B2B-A9C5-3DD2FC3E1ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83032C02-851B-4B2B-A9C5-3DD2FC3E1ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE9B6C3-D6ED-4786-99C2-18ACAD6B7F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE9B6C3-D6ED-4786-99C2-18ACAD6B7F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE9B6C3-D6ED-4786-99C2-18ACAD6B7F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE9B6C3-D6ED-4786-99C2-18ACAD6B7F64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F393A0E-C3A1-4950-B11E-D02D779D436F}
+	EndGlobalSection
+EndGlobal
