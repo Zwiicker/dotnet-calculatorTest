@@ -6,13 +6,13 @@ namespace dotnet_newtalents
 {
     public class Calculadora
     {
-        public int somar ( int val1, int val2)
+        public int somar(int val1, int val2)
         {
             return 0;
         }
         public int subtrair(int val1, int val2)
         {
-            return 0;
+            return -1;
         }
         public int multiplicar(int val1, int val2)
         {
